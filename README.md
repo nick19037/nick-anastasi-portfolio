@@ -10,7 +10,7 @@ This repository showcases selected case studies and assignments I’ve completed
 
 | Project | Brief Description | Grade |
 |---------|-------------------|-------|
-| **[superannuation-gender-gap-analysis](link)** | An analysis of gender disparities in superannuation balances using ATO sample data. | High Distinction. |
+| **[superannuation-gender-gap-analysis](https://github.com/nick19037/superannuation-gender-gap-analysis)** | An analysis of gender disparities in superannuation balances using ATO sample data. | High Distinction. |
 | **[project-two-title](link)** | Short description of project two. |
 | **[project-three-title](link)** | Short description of project three. |
 
@@ -22,7 +22,6 @@ This repository showcases selected case studies and assignments I’ve completed
   - **Languages**: R, Python, SQL
   - **Tools**: Quarto / R Markdown, Jupyter Notebooks, Git & GitHub
   - **Techniques**: Regression, Classification, Visual Analytics
-- **Career Aspirations**: I aim to leverage data for **policy evaluation, social impact, and evidence-based decision-making**.
 
 ##  Get in Touch
 
