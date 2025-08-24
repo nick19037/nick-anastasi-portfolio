@@ -1,20 +1,18 @@
 # Data Analytics Portfolio
 
-Welcome! I’m currently pursuing a **Bachelor of Applied Data Analytics** and a **Bachelor of Science (BSc)** at the **Australian National University (ANU)**. My studies emphasize quantitative analysis, programming, and transdisciplinary problem-solving.:contentReference[oaicite:1]{index=1}
+Welcome! I’m currently pursuing a **Bachelor of Applied Data Analytics** and a **Bachelor of Science (BSc)** at the **Australian National University (ANU)**. My studies emphasize quantitative analysis, programming, and transdisciplinary problem-solving.
 
-This repository showcases selected case studies and assignments I’ve completed throughout my degree—all polished and curated to highlight my analytical skills, reproducibility, and attention to clear communication.
+This repository showcases selected case studies and assignments I’ve completed throughout my degree. Feel free to explore each project for full reports, codes, and visual summaries.
 
 ---
 
 ##  Featured Projects
 
-| Project | Brief Description |
-|---------|-------------------|
-| **[superannuation-gender-gap-analysis](link)** | An analysis of gender disparities in superannuation balances using ATO sample data. Achieved a High Distinction. |
+| Project | Brief Description | Grade |
+|---------|-------------------|-------|
+| **[superannuation-gender-gap-analysis](link)** | An analysis of gender disparities in superannuation balances using ATO sample data. | High Distinction. |
 | **[project-two-title](link)** | Short description of project two. |
 | **[project-three-title](link)** | Short description of project three. |
-
-Feel free to explore each project for full reports, codes, and visual summaries.
 
 ---
 
